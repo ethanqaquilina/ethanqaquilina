@@ -1,6 +1,6 @@
 # About me
 
-- 🔭 I’m currently working on getting into UW Seattle or UW Bothell.
+- 🔭 I’m currently working on getting my Bachelors in Computer Science
 - 🌱 I’m currently learning GitHub, Godot, Blender.
 - 👯 I’m looking to collaborate on game project.
 - 🤔 I’m looking for help with finding great resources for learning GitHub, Godot, Blender.
