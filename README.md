@@ -1,3 +1,3 @@
 # About me
 
-Comp Sci Student
+Computer Science student from Southern California
